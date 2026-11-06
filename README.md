@@ -38,6 +38,6 @@ I engineer systems from bare-metal up to the terminal—running a declarative ze
 #### 📊 Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vehkiya&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Sergiu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vehkiya&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vehkiya&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Sergiu's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vehkiya&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
