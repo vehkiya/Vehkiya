@@ -1,4 +1,4 @@
-> *"Building the tools I actually use."*
+*Building the tools I actually use.*
 
 I engineer systems from bare-metal up to the terminal—running a declarative zero-trust homelab and building purpose-driven tools under [**@hononeko**](https://github.com/hononeko).
 
@@ -13,7 +13,7 @@ I engineer systems from bare-metal up to the terminal—running a declarative ze
 
 ---
 
-#### ⚡ Tech & Stack
+#### ⚡ Tech Stack
 
 <p align="left">
   <!-- Systems & Backend -->
@@ -35,7 +35,7 @@ I engineer systems from bare-metal up to the terminal—running a declarative ze
 
 ---
 
-#### 📊 Telemetry
+#### 📊 Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=vehkiya&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Sergiu's GitHub Stats" />
