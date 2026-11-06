@@ -8,7 +8,7 @@ I engineer systems from bare-metal up to the terminal—running a declarative ze
 
 - [**homelab-k8s**](https://github.com/vehkiya/homelab-k8s) — 4-node bare-metal Kubernetes cluster on Talos Linux, Cilium eBPF default-deny, GitOps (ArgoCD & OpenTofu), and zero-trust security.
 - [**koshin**](https://github.com/hononeko/koshin) — Stateless, scale-to-zero Renovate CLI orchestrator powered by Kotlin, Ktor, NATS JetStream, and Valkey.
-- [**thread-udp-proxy**](https://github.com/hononeko/thread-udp-proxy) — Distroless Matter-over-Thread UDP relay sidecar fixing asymmetric routing for OTBR.
+- [**traefik-plugin-cloudflare-realip**](https://github.com/hononeko/traefik-plugin-cloudflare-realip) — Traefik middleware plugin safely restoring real client IPs from Cloudflare proxy headers to eliminate spoofing and ban-evasion vectors.
 - [**sshx**](https://github.com/hononeko/sshx) & [**doppel**](https://github.com/hononeko/doppel) — Terminal-first developer utilities built with Go and the Charm TUI stack.
 
 ---
