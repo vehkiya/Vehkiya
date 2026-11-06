@@ -32,11 +32,3 @@ I engineer systems from bare-metal up to the terminal—running a declarative ze
   <img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS" />
   <img src="https://img.shields.io/badge/Valkey-CC0000?style=flat-square&logo=redis&logoColor=white" alt="Valkey" />
 </p>
-
----
-
-#### 📊 Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vehkiya&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
